@@ -1,0 +1,27 @@
+certifi==2020.12.5
+cycler==0.10.0
+dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
+decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
+dgl==0.4.1
+joblib==1.0.1
+kiwisolver==1.3.1
+matplotlib==3.3.4
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+networkx @ file:///tmp/build/80754af9/networkx_1598376031484/work
+numpy @ file:///opt/concourse/worker/volumes/live/e6a5a904-ea21-4841-4eec-d53e1ac1014c/volume/numpy_and_numpy_base_1603479626870/work
+olefile==0.46
+Pillow @ file:///opt/concourse/worker/volumes/live/5ecbe040-b1bd-4970-778e-2b32e953b634/volume/pillow_1615224137867/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+scikit-learn==0.24.1
+scipy @ file:///opt/concourse/worker/volumes/live/d2cc8ac1-8922-48bc-7969-1f576a9f572d/volume/scipy_1597686637832/work
+six @ file:///opt/concourse/worker/volumes/live/5839b2d2-7415-4ff0-4c61-c4cddf798f7c/volume/six_1605205320479/work
+sklearn==0.0
+threadpoolctl==2.1.0
+torch==1.8.1
+torchaudio==0.8.0a0+e4e171a
+torchvision==0.9.1
+tqdm==4.59.0
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
