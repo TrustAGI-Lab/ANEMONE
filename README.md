@@ -1,6 +1,6 @@
 # ANEMONE
 
-A PyTorch implementation of "ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning", CIKM-21
+A PyTorch implementation of "[ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning](https://shiruipan.github.io/publication/cikm-21-jin/)", CIKM-21
 
 <p align="center">
 <img src="./ANEMONE.png" width="1200">
